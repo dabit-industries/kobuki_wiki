@@ -1,6 +1,6 @@
 # kobuki_wiki
 A wiki site for the Yujin's iClebo Kobuki  
-Hosted on readthedocs:  
+Hosted on readthedocs: [https://iclebo-kobuki.readthedocs.io/](https://iclebo-kobuki.readthedocs.io/) 
 
 ## To-Do
 - [ ] Fix CJK character display in PDF format
