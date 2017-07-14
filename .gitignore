@@ -1,7 +1,9 @@
 # Sphinx Build Files #
 ######################
 build/
+_build/
 _build_html/
+_build_pdf/
 
 # Temporary Files #
 ###################
